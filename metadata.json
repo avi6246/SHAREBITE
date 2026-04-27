@@ -1,0 +1,5 @@
+{
+  "name": "ShareBite",
+  "description": "A food rescue platform connecting donors with delivery partners to fight hunger.",
+  "requestFramePermissions": ["geolocation"]
+}
